@@ -6,3 +6,4 @@ pydantic
 toolz
 defusedxml
 pytest
+ansible-core>=2.22.0b2 # not directly required, pinned by Snyk to avoid a vulnerability
